@@ -1,1 +1,56 @@
 Add your resume PDF here as public/resume.pdf to activate the Resume link.
+Akash Reddy Vangala
+(978) 654-0440 | akashreddyvangala6@gmail.com | LinkedIn | GitHub
+PROFESSIONAL SUMMARY
+Recent Computer Science graduate with hands-on experience developing C++ applications using object-oriented program
+ming, STL containers, smart pointers, and modular software design. Strong foundation in data structures, algorithms,
+debugging, and problem-solving, with practical experience building interactive applications and graphical systems using
+SFML. Interested in high-performance computing, efficient software architecture, and low-latency trading technologies.
+Eager to collaborate with experienced engineers and develop reliable, performance-focused C++ systems.
+EDUCATION
+University of Massachusetts Lowell
+Bachelor of Science in Computer Science
+TECHNICAL SKILLS
+Languages: C++, Python, Java, JavaScript, SQL, PHP
+May 2026
+Lowell, MA
+C++ Development: OOP, STL, Smart Pointers, Memory Management, JSON, SFML
+Core Computer Science: Data Structures, Algorithms, Debugging, Problem Solving, Software Design
+Developer Tools: Git, GitHub, Linux, G++, GDB, VS Code, Docker, CI/CD
+PROJECTS
+AniPlayer– Modular 2D Animation Engine
+C++, SFML, JSON, STL, Object-Oriented Programming
+2026
+• Designed and developed a modular 2D animation engine in C++ using SFML, rendering configurable graphical objects
+from JSON configuration files.
+• Implemented keyframe-based tweening, scaling, rotation, audio playback, and interactive controls for dynamic animation
+sequences.
+• Applied object-oriented design, STL containers, and smart pointers to organize reusable components and manage
+graphical resources.
+Sokoban– Interactive Puzzle Game
+C++, SFML, STL, Object-Oriented Programming
+2026
+• Developed an interactive puzzle game in C++ using SFML, separating rendering, user input, and game logic into
+modular components.
+• Implemented collision detection, movement validation, box-pushing mechanics, undo/redo operations, and game-state
+management.
+• Used STL containers and object-oriented programming to organize game objects, track player actions, and manage
+puzzle states.
+SpriteBuilder– Interactive Graphics Application
+C++, SFML, Object-Oriented Design
+• Developed a C++ graphics application using SFML to create and manipulate interactive 2D graphical objects.
+2026
+• Implemented event-driven input handling and graphical transformations for interactive object movement and rendering.
+• Organized application components using object-oriented principles to separate graphics behavior and user interaction.
+Mock University– Full-Stack Management Application
+Feb 2026– Apr 2026
+Java, PHP, SQL, Android, Git
+• Collaborated in a three-member team to build a university management application supporting authentication, registra
+tion, and academic records.
+• Designed relational database schemas and SQL queries; developed backend API endpoints for retrieving and updating
+application data.
+• Implemented Android features in Java and collaborated using Git to maintain application functionality and source code.
+CERTIFICATIONS
+• AWS Certified Cloud Practitioner– Amazon Web Services, Jan 2026
+• KodeKloud Engineer– Kubernetes– May 2026
+• KodeKloud Engineer– 100 Days of Cloud (AWS)– Feb 2026
